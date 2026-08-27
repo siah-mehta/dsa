@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/siah-mehta/dsa/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/siah-mehta/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/siah-mehta/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/siah-mehta/dsa/tree/master/1386-cinema-seat-allocation) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/siah-mehta/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,4 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/siah-mehta/dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/siah-mehta/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/siah-mehta/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/siah-mehta/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
