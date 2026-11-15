@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/siah-mehta/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/siah-mehta/dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/siah-mehta/dsa/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/siah-mehta/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/siah-mehta/dsa/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/siah-mehta/dsa/tree/master/0493-reverse-pairs) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/siah-mehta/dsa/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/siah-mehta/dsa/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/siah-mehta/dsa/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/siah-mehta/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/siah-mehta/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siah-mehta/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/siah-mehta/dsa/tree/master/0907-sum-of-subarray-minimums) |
@@ -870,4 +872,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/siah-mehta/dsa/tree/master/0778-swim-in-rising-water) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/siah-mehta/dsa/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/siah-mehta/dsa/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
