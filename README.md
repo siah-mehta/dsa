@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/siah-mehta/dsa/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/siah-mehta/dsa/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/siah-mehta/dsa/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/siah-mehta/dsa/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/siah-mehta/dsa/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/siah-mehta/dsa/tree/master/0239-sliding-window-maximum) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/siah-mehta/dsa/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/siah-mehta/dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/siah-mehta/dsa/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/siah-mehta/dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/siah-mehta/dsa/tree/master/0455-assign-cookies) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/siah-mehta/dsa/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/siah-mehta/dsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/siah-mehta/dsa/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siah-mehta/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/siah-mehta/dsa/tree/master/0493-reverse-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/siah-mehta/dsa/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -648,4 +652,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/siah-mehta/dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/siah-mehta/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/siah-mehta/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
