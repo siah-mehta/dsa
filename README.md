@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/siah-mehta/dsa/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/siah-mehta/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siah-mehta/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/siah-mehta/dsa/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/siah-mehta/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/siah-mehta/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/siah-mehta/dsa/tree/master/0141-linked-list-cycle) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siah-mehta/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/siah-mehta/dsa/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/siah-mehta/dsa/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/siah-mehta/dsa/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/siah-mehta/dsa/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/siah-mehta/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/siah-mehta/dsa/tree/master/0205-isomorphic-strings) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/siah-mehta/dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/siah-mehta/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/siah-mehta/dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/siah-mehta/dsa/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/siah-mehta/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/siah-mehta/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/siah-mehta/dsa/tree/master/0547-number-of-provinces) |
@@ -720,4 +723,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/siah-mehta/dsa/tree/master/0547-number-of-provinces) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/siah-mehta/dsa/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
