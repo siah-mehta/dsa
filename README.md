@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/siah-mehta/dsa/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/siah-mehta/dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/siah-mehta/dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/siah-mehta/dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/siah-mehta/dsa/tree/master/0073-set-matrix-zeroes) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/siah-mehta/dsa/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/siah-mehta/dsa/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/siah-mehta/dsa/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/siah-mehta/dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/siah-mehta/dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/siah-mehta/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/siah-mehta/dsa/tree/master/0835-image-overlap) |
