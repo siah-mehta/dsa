@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/siah-mehta/dsa/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/siah-mehta/dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/siah-mehta/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/siah-mehta/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/siah-mehta/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siah-mehta/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/siah-mehta/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/siah-mehta/dsa/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/siah-mehta/dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/siah-mehta/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/siah-mehta/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siah-mehta/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/siah-mehta/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/siah-mehta/dsa/tree/master/1539-kth-missing-positive-number) |
