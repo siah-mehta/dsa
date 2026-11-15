@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/siah-mehta/dsa/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/siah-mehta/dsa/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/siah-mehta/dsa/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/siah-mehta/dsa/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/siah-mehta/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/siah-mehta/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/siah-mehta/dsa/tree/master/1903-largest-odd-number-in-string) |
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/siah-mehta/dsa/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/siah-mehta/dsa/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
