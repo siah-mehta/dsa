@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/siah-mehta/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/siah-mehta/dsa/tree/master/0410-split-array-largest-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0493-reverse-pairs](https://github.com/siah-mehta/dsa/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/siah-mehta/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/siah-mehta/dsa/tree/master/0835-image-overlap) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/siah-mehta/dsa/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/siah-mehta/dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/siah-mehta/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/siah-mehta/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siah-mehta/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/siah-mehta/dsa/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/siah-mehta/dsa/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/siah-mehta/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/siah-mehta/dsa/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/siah-mehta/dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/siah-mehta/dsa/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/siah-mehta/dsa/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## String Matching
 |  |
