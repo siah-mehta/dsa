@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/siah-mehta/dsa/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/siah-mehta/dsa/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/siah-mehta/dsa/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/siah-mehta/dsa/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/siah-mehta/dsa/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/siah-mehta/dsa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/siah-mehta/dsa/tree/master/0053-maximum-subarray) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/siah-mehta/dsa/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/siah-mehta/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/siah-mehta/dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/siah-mehta/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/siah-mehta/dsa/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/siah-mehta/dsa/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/siah-mehta/dsa/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/siah-mehta/dsa/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/siah-mehta/dsa/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/siah-mehta/dsa/tree/master/0131-palindrome-partitioning) |
