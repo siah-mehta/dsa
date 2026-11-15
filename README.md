@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/siah-mehta/dsa/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/siah-mehta/dsa/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siah-mehta/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/siah-mehta/dsa/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/siah-mehta/dsa/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/siah-mehta/dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siah-mehta/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/siah-mehta/dsa/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/siah-mehta/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/siah-mehta/dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siah-mehta/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/siah-mehta/dsa/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/siah-mehta/dsa/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/siah-mehta/dsa/tree/master/1392-longest-happy-prefix) |
@@ -311,15 +314,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siah-mehta/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/siah-mehta/dsa/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/siah-mehta/dsa/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siah-mehta/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/siah-mehta/dsa/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/siah-mehta/dsa/tree/master/1392-longest-happy-prefix) |
 ## Manacher
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/siah-mehta/dsa/tree/master/0214-shortest-palindrome) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siah-mehta/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
