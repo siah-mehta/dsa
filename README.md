@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/siah-mehta/dsa/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/siah-mehta/dsa/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/siah-mehta/dsa/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/siah-mehta/dsa/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/siah-mehta/dsa/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/siah-mehta/dsa/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siah-mehta/dsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/siah-mehta/dsa/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/siah-mehta/dsa/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/siah-mehta/dsa/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/siah-mehta/dsa/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/siah-mehta/dsa/tree/master/0204-count-primes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/siah-mehta/dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/siah-mehta/dsa/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/siah-mehta/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/siah-mehta/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/siah-mehta/dsa/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -363,4 +367,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/siah-mehta/dsa/tree/master/0037-sudoku-solver) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/siah-mehta/dsa/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/siah-mehta/dsa/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/siah-mehta/dsa/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
