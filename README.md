@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/siah-mehta/dsa/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/siah-mehta/dsa/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/siah-mehta/dsa/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/siah-mehta/dsa/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/siah-mehta/dsa/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/siah-mehta/dsa/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/siah-mehta/dsa/tree/master/0051-n-queens) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/siah-mehta/dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/siah-mehta/dsa/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/siah-mehta/dsa/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/siah-mehta/dsa/tree/master/0455-assign-cookies) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/siah-mehta/dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/siah-mehta/dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/siah-mehta/dsa/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/siah-mehta/dsa/tree/master/0115-distinct-subsequences) |
