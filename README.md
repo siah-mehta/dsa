@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siah-mehta/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/siah-mehta/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/siah-mehta/dsa/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/siah-mehta/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/siah-mehta/dsa/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/siah-mehta/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/siah-mehta/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siah-mehta/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/siah-mehta/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/siah-mehta/dsa/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/siah-mehta/dsa/tree/master/1631-path-with-minimum-effort) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/siah-mehta/dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/siah-mehta/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/siah-mehta/dsa/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/siah-mehta/dsa/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/siah-mehta/dsa/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/siah-mehta/dsa/tree/master/1631-path-with-minimum-effort) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/siah-mehta/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/siah-mehta/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/siah-mehta/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/siah-mehta/dsa/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/siah-mehta/dsa/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/siah-mehta/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/siah-mehta/dsa/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/siah-mehta/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/siah-mehta/dsa/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/siah-mehta/dsa/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/siah-mehta/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
@@ -432,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/siah-mehta/dsa/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/siah-mehta/dsa/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/siah-mehta/dsa/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/siah-mehta/dsa/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/siah-mehta/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -681,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/siah-mehta/dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/siah-mehta/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/siah-mehta/dsa/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/siah-mehta/dsa/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -778,4 +785,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/siah-mehta/dsa/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/siah-mehta/dsa/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
