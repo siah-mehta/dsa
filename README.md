@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/siah-mehta/dsa/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/siah-mehta/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/siah-mehta/dsa/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/siah-mehta/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/siah-mehta/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/siah-mehta/dsa/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/siah-mehta/dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/siah-mehta/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/siah-mehta/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/siah-mehta/dsa/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/siah-mehta/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/siah-mehta/dsa/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/siah-mehta/dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/siah-mehta/dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -928,5 +930,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/siah-mehta/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/siah-mehta/dsa/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
