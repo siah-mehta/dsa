@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/siah-mehta/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/siah-mehta/dsa/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/siah-mehta/dsa/tree/master/0031-next-permutation) |
+| [0040-combination-sum-ii](https://github.com/siah-mehta/dsa/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/siah-mehta/dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/siah-mehta/dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/siah-mehta/dsa/tree/master/0054-spiral-matrix) |
@@ -336,5 +337,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/siah-mehta/dsa/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/siah-mehta/dsa/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
