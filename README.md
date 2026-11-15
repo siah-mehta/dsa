@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/siah-mehta/dsa/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/siah-mehta/dsa/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/siah-mehta/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siah-mehta/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/siah-mehta/dsa/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/siah-mehta/dsa/tree/master/0152-maximum-product-subarray) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/siah-mehta/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/siah-mehta/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/siah-mehta/dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/siah-mehta/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/siah-mehta/dsa/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/siah-mehta/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
