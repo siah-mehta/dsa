@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/siah-mehta/dsa/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/siah-mehta/dsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/siah-mehta/dsa/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/siah-mehta/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/siah-mehta/dsa/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/siah-mehta/dsa/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/siah-mehta/dsa/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/siah-mehta/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/siah-mehta/dsa/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/siah-mehta/dsa/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/siah-mehta/dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/siah-mehta/dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/siah-mehta/dsa/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/siah-mehta/dsa/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/siah-mehta/dsa/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/siah-mehta/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
