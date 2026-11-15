@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/siah-mehta/dsa/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/siah-mehta/dsa/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/siah-mehta/dsa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/siah-mehta/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/siah-mehta/dsa/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/siah-mehta/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/siah-mehta/dsa/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/siah-mehta/dsa/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/siah-mehta/dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/siah-mehta/dsa/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/siah-mehta/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siah-mehta/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/siah-mehta/dsa/tree/master/0907-sum-of-subarray-minimums) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/siah-mehta/dsa/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/siah-mehta/dsa/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/siah-mehta/dsa/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/siah-mehta/dsa/tree/master/0494-target-sum) |
 ## Algorithm X
 |  |
 | ------- |
@@ -876,8 +879,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/siah-mehta/dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/siah-mehta/dsa/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/siah-mehta/dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/siah-mehta/dsa/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
