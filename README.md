@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/siah-mehta/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/siah-mehta/dsa/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/siah-mehta/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/siah-mehta/dsa/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/siah-mehta/dsa/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/siah-mehta/dsa/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/siah-mehta/dsa/tree/master/0739-daily-temperatures) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/siah-mehta/dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/siah-mehta/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/siah-mehta/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/siah-mehta/dsa/tree/master/0721-accounts-merge) |
 | [0930-binary-subarrays-with-sum](https://github.com/siah-mehta/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/siah-mehta/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/siah-mehta/dsa/tree/master/1248-count-number-of-nice-subarrays) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/siah-mehta/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/siah-mehta/dsa/tree/master/0214-shortest-palindrome) |
 | [0402-remove-k-digits](https://github.com/siah-mehta/dsa/tree/master/0402-remove-k-digits) |
+| [0721-accounts-merge](https://github.com/siah-mehta/dsa/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/siah-mehta/dsa/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/siah-mehta/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/siah-mehta/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/siah-mehta/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/siah-mehta/dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/siah-mehta/dsa/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/siah-mehta/dsa/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/siah-mehta/dsa/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/siah-mehta/dsa/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/siah-mehta/dsa/tree/master/1631-path-with-minimum-effort) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/siah-mehta/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/siah-mehta/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/siah-mehta/dsa/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/siah-mehta/dsa/tree/master/0721-accounts-merge) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/siah-mehta/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/siah-mehta/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
@@ -321,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/siah-mehta/dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/siah-mehta/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/siah-mehta/dsa/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/siah-mehta/dsa/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/siah-mehta/dsa/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/siah-mehta/dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/siah-mehta/dsa/tree/master/0785-is-graph-bipartite) |
@@ -439,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/siah-mehta/dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/siah-mehta/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/siah-mehta/dsa/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/siah-mehta/dsa/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/siah-mehta/dsa/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/siah-mehta/dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/siah-mehta/dsa/tree/master/0785-is-graph-bipartite) |
