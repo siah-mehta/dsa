@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siah-mehta/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/siah-mehta/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/siah-mehta/dsa/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
 | [0835-image-overlap](https://github.com/siah-mehta/dsa/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/siah-mehta/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siah-mehta/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/siah-mehta/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/siah-mehta/dsa/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/siah-mehta/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siah-mehta/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/siah-mehta/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/siah-mehta/dsa/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/siah-mehta/dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/siah-mehta/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/siah-mehta/dsa/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/siah-mehta/dsa/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/siah-mehta/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -71,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siah-mehta/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/siah-mehta/dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/siah-mehta/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -122,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/siah-mehta/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/siah-mehta/dsa/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/siah-mehta/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/siah-mehta/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
