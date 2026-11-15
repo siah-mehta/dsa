@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/siah-mehta/dsa/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0455-assign-cookies](https://github.com/siah-mehta/dsa/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/siah-mehta/dsa/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/siah-mehta/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/siah-mehta/dsa/tree/master/0835-image-overlap) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/siah-mehta/dsa/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/siah-mehta/dsa/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/siah-mehta/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/siah-mehta/dsa/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/siah-mehta/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/siah-mehta/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/siah-mehta/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/siah-mehta/dsa/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/siah-mehta/dsa/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/siah-mehta/dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/siah-mehta/dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/siah-mehta/dsa/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/siah-mehta/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/siah-mehta/dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/siah-mehta/dsa/tree/master/0455-assign-cookies) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/siah-mehta/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/siah-mehta/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
@@ -445,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/siah-mehta/dsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/siah-mehta/dsa/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
