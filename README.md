@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/siah-mehta/dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siah-mehta/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/siah-mehta/dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/siah-mehta/dsa/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/siah-mehta/dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/siah-mehta/dsa/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/siah-mehta/dsa/tree/master/0152-maximum-product-subarray) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/siah-mehta/dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/siah-mehta/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/siah-mehta/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/siah-mehta/dsa/tree/master/0547-number-of-provinces) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/siah-mehta/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/siah-mehta/dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/siah-mehta/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/siah-mehta/dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0130-surrounded-regions](https://github.com/siah-mehta/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/siah-mehta/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/siah-mehta/dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/siah-mehta/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/siah-mehta/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/siah-mehta/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/siah-mehta/dsa/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/siah-mehta/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/siah-mehta/dsa/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siah-mehta/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/siah-mehta/dsa/tree/master/0733-flood-fill) |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/siah-mehta/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/siah-mehta/dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siah-mehta/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/siah-mehta/dsa/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/siah-mehta/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siah-mehta/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/siah-mehta/dsa/tree/master/0200-number-of-islands) |
