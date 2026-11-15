@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/siah-mehta/dsa/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/siah-mehta/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/siah-mehta/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1392-longest-happy-prefix](https://github.com/siah-mehta/dsa/tree/master/1392-longest-happy-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/siah-mehta/dsa/tree/master/1903-largest-odd-number-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/siah-mehta/dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/siah-mehta/dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -294,4 +295,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/siah-mehta/dsa/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/siah-mehta/dsa/tree/master/1392-longest-happy-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/siah-mehta/dsa/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/siah-mehta/dsa/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/siah-mehta/dsa/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/siah-mehta/dsa/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
