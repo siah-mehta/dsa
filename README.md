@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/siah-mehta/dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siah-mehta/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/siah-mehta/dsa/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/siah-mehta/dsa/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/siah-mehta/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/siah-mehta/dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/siah-mehta/dsa/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/siah-mehta/dsa/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siah-mehta/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/siah-mehta/dsa/tree/master/0152-maximum-product-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/siah-mehta/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siah-mehta/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/siah-mehta/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
