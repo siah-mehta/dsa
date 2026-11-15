@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/siah-mehta/dsa/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/siah-mehta/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/siah-mehta/dsa/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/siah-mehta/dsa/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/siah-mehta/dsa/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/siah-mehta/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/siah-mehta/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -294,22 +295,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/siah-mehta/dsa/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/siah-mehta/dsa/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/siah-mehta/dsa/tree/master/1392-longest-happy-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/siah-mehta/dsa/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/siah-mehta/dsa/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/siah-mehta/dsa/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/siah-mehta/dsa/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/siah-mehta/dsa/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/siah-mehta/dsa/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/siah-mehta/dsa/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/siah-mehta/dsa/tree/master/1392-longest-happy-prefix) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/siah-mehta/dsa/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
