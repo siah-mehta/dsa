@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/siah-mehta/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/siah-mehta/dsa/tree/master/0214-shortest-palindrome) |
 | [0402-remove-k-digits](https://github.com/siah-mehta/dsa/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/siah-mehta/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/siah-mehta/dsa/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/siah-mehta/dsa/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/siah-mehta/dsa/tree/master/0940-distinct-subsequences-ii) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/siah-mehta/dsa/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/siah-mehta/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/siah-mehta/dsa/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/siah-mehta/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/siah-mehta/dsa/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/siah-mehta/dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/siah-mehta/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
