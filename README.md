@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/siah-mehta/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/siah-mehta/dsa/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/siah-mehta/dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/siah-mehta/dsa/tree/master/0053-maximum-subarray) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/siah-mehta/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/siah-mehta/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/siah-mehta/dsa/tree/master/0493-reverse-pairs) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/siah-mehta/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/siah-mehta/dsa/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/siah-mehta/dsa/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/siah-mehta/dsa/tree/master/0493-reverse-pairs) |
