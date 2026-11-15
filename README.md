@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/siah-mehta/dsa/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siah-mehta/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/siah-mehta/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/siah-mehta/dsa/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/siah-mehta/dsa/tree/master/0455-assign-cookies) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/siah-mehta/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/siah-mehta/dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/siah-mehta/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/siah-mehta/dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/siah-mehta/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/siah-mehta/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/siah-mehta/dsa/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/siah-mehta/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/siah-mehta/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/siah-mehta/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/siah-mehta/dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/siah-mehta/dsa/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/siah-mehta/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/siah-mehta/dsa/tree/master/0455-assign-cookies) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/siah-mehta/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/siah-mehta/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/siah-mehta/dsa/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siah-mehta/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/siah-mehta/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/siah-mehta/dsa/tree/master/0493-reverse-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -621,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/siah-mehta/dsa/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/siah-mehta/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -656,4 +662,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/siah-mehta/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/siah-mehta/dsa/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/siah-mehta/dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
