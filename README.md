@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/siah-mehta/dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/siah-mehta/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/siah-mehta/dsa/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/siah-mehta/dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/siah-mehta/dsa/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/siah-mehta/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/siah-mehta/dsa/tree/master/0994-rotting-oranges) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/siah-mehta/dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/siah-mehta/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/siah-mehta/dsa/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/siah-mehta/dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/siah-mehta/dsa/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/siah-mehta/dsa/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/siah-mehta/dsa/tree/master/1020-number-of-enclaves) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/siah-mehta/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/siah-mehta/dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/siah-mehta/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/siah-mehta/dsa/tree/master/0743-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/siah-mehta/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/siah-mehta/dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/siah-mehta/dsa/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/siah-mehta/dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/siah-mehta/dsa/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/siah-mehta/dsa/tree/master/0802-find-eventual-safe-states) |
 ## Bidirectional Search
@@ -766,4 +770,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/siah-mehta/dsa/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/siah-mehta/dsa/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/siah-mehta/dsa/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
