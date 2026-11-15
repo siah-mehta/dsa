@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/siah-mehta/dsa/tree/master/1048-longest-string-chain) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/siah-mehta/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/siah-mehta/dsa/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/siah-mehta/dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/siah-mehta/dsa/tree/master/1392-longest-happy-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/siah-mehta/dsa/tree/master/1903-largest-odd-number-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/siah-mehta/dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/siah-mehta/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/siah-mehta/dsa/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/siah-mehta/dsa/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/siah-mehta/dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/siah-mehta/dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siah-mehta/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/siah-mehta/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
