@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/siah-mehta/dsa/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/siah-mehta/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/siah-mehta/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/siah-mehta/dsa/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/siah-mehta/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/siah-mehta/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/siah-mehta/dsa/tree/master/1386-cinema-seat-allocation) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/siah-mehta/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/siah-mehta/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/siah-mehta/dsa/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/siah-mehta/dsa/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/siah-mehta/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/siah-mehta/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/siah-mehta/dsa/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/siah-mehta/dsa/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/siah-mehta/dsa/tree/master/1020-number-of-enclaves) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/siah-mehta/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/siah-mehta/dsa/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/siah-mehta/dsa/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/siah-mehta/dsa/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/siah-mehta/dsa/tree/master/1020-number-of-enclaves) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/siah-mehta/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/siah-mehta/dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/siah-mehta/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/siah-mehta/dsa/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/siah-mehta/dsa/tree/master/1020-number-of-enclaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/siah-mehta/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
